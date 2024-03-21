@@ -5,7 +5,6 @@ export default function Nataly() {
     return(
         <View>
             <Text>Nataly Baratella</Text>
-            <Text>Pimeira prova DDM lado B</Text>
         </View>
 
     );
